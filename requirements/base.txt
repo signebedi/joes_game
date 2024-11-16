@@ -1,1 +1,2 @@
 pydantic<3.0.0
+typer<1.0.0
